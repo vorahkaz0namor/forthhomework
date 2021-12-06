@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/kc_fragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_filter_1_24"
+        android:title="@string/kurt_cobain_fragment" />
+
+    <item
+        android:id="@+id/jh_fragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_filter_2_24"
+        android:title="@string/jimi_hendrix_fragment" />
+
+    <item
+        android:id="@+id/vc_fragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_filter_3_24"
+        android:title="@string/victor_tsoy_fragment" />
+
+    <item
+        android:id="@+id/el_fragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_filter_4_24"
+        android:title="@string/egor_letov_fragment" />
+
+</menu>

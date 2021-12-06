@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Rock Legends</string>
+    <string name="kurt_cobain_fragment">Kurt Cobain</string>
+    <string name="jimi_hendrix_fragment">Jimi Hendrix</string>
+    <string name="victor_tsoy_fragment">Виктор Цой</string>
+    <string name="egor_letov_fragment">Егор Летов</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
